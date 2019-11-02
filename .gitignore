@@ -1,3 +1,4 @@
 /cnn/vm/.*
 .*
 !.gitignore
+/cnn/vm/*/output
